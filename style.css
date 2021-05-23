@@ -10,13 +10,14 @@ h1 {
     text-align: center;
     font-size: 60px;
     font-family: cursive;
-    
+    color: white;
     padding-top: 170px;
     
 }
 
 h2 {
     font-size: 60px;
+    color: white;
 }
 
 button {
